@@ -1,4 +1,1 @@
-This is the first text classification project I carried out in order to train a neural network model that could identify the tweet content type.
-
-
-The training data was downloaded from Kaggle (https://www.kaggle.com/pradeeptrical/text-tweet-classification). As the dataset is quite small, I was able to do hypterparameters tuning and run 432 models in order to find the model that works the best among all.
+The objective of this project is to carry out a complete text classification analysis on a dataset of 1.1K tweets and train a neural network model that identifies tweets' content types. There are 4 possible output labels: sports, entertainment, medical, politics. The dataset was downloaded from Kaggle (https://www.kaggle.com/pradeeptrical/text-tweet-classification).
